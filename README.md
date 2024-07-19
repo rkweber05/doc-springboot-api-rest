@@ -2,10 +2,8 @@
   <img src="https://www.notion.so/image/https%3A%2F%2Fhermes.dio.me%2Farticles%2Fcover%2F79a1dddc-5f58-46db-bd5f-95733ba66097.png?table=block&id=650ebb62-44c0-4915-b90b-079b2e407d5c&spaceId=2396c5a5-9467-4ea6-935a-de00a473fbdc&width=2000&userId=79542ed9-3136-42cc-8706-a6676c1541d4&cache=v2">
 </div>
 
-![image](https://github.com/user-attachments/assets/626efc54-083b-4fc1-8f4f-df0762f348e3)
-# Spring Boot - Alura
+# ![image](https://github.com/user-attachments/assets/626efc54-083b-4fc1-8f4f-df0762f348e3) Spring Boot - Alura
 
-![image](https://github.com/user-attachments/assets/b72cf1f2-06b3-449c-8785-ab21b1452902)
 ## Qua diferença entre Spring Framework e Spring Boot ?
   ° No Spring Framework, o desenvolvedor precisa configurar e inicializar manualmente o ambiente, enquanto o Spring Boot oferece uma inicialização mais rápida e fácil, com a maioria das configurações feitas automaticamente com base nas dependências adicionadas
 
